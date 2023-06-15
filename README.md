@@ -1,3 +1,5 @@
+![Java](https://cloudblogs.microsoft.com/wp-content/uploads/sites/37/2021/04/Duke_OpenJDK_animation_Final.gif)
+
 <h1>Oracle - Java Foundations</h1>
 <p>Repositório para as atividades propostas no curso de Java Foundations da Oracle.</p>
 
