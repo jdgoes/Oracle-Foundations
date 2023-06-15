@@ -109,17 +109,3 @@ O usuário pode fornecer a temperatura enquanto o programa está sendo executado
 Os jogos devem ser agendados caso a temperatura permita, com oponentes escolhidos aleatoriamente, evitando jogos entre a mesma equipe.  
 Se ocorrerem três semanas consecutivas de temperaturas congelantes, a temporada é encerrada.  
 Resumindo, o programa simula uma liga de futebol, permitindo o controle das estatísticas da temporada, agendamento de jogos de acordo com a temperatura e exibição das informações relevantes ao final da temporada.</p>
-
-<h3>SEÇÃO 09 - JAVA FOUNDATIONS</h3>
-
-<p>Problema 1: Encontrando uma Localização Central
-
-Explicação: Criar um programa JavaFX chamado CampusMap para determinar pontos localizados mais centralmente em um campus.  
-O programa utiliza um mapa do campus como gráfico de fundo.  
-Representar visualmente os dormitórios no mapa do campus, exibindo seus nomes e populações.  
-Permitir ajustes na população e localização dos dormitórios durante a execução do programa.  
-Encontrar e exibir dois pontos centrais: um representa a localização central de todos os alunos em todos os dormitórios, e o outro representa a localização central de um grupo de estudo com pelo menos três pessoas que moram em dormitórios diferentes.  
-Os pontos centrais devem ser visualmente representados, ter um rótulo e exibir suas coordenadas numéricas.  
-Os pontos centrais devem ser atualizados automaticamente quando houver mudanças na localização ou população dos dormitórios.  
-Considerar o centro geométrico das ilustrações dos dormitórios para cálculos de distância.  
-Resumindo, o programa CampusMap utiliza um mapa do campus para encontrar e exibir os pontos centrais com base na população dos dormitórios e nas coordenadas de um grupo de estudo.</p>
